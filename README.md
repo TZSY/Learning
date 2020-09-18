@@ -1,2 +1,2 @@
 # Learning
-many kinds of leaning documents
+many kinds of learning documents
