@@ -2,9 +2,11 @@
 
 需要手动下载
 
+ http://services.gradle.org/distributions/
+
 放到地址
 
-C:\Users\tzsy\.gradle\wrapper\dists中
+C:\Users\tzsy\.gradle\wrapper\dists\xxxxx中
 
 ##  编译报错
 
